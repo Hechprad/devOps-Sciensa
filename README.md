@@ -1,5 +1,5 @@
 # 📌 devOps-Sciensa
-Apresentação de Docker para a sétima semana de treinamento do projeto Trainees 2019 da empresa Sciensa
+Apresentação de Docker para a sétima semana de treinamento do projeto Trainees 2019 da empresa Sciensa - 24/09/2019
 ***
 
 # Apresentação
